@@ -1,1 +1,1 @@
-# web-apps
+Web application development is defined as creating software and web-based applications that run on a web server and can be accessed over the internet using web browsers. This process involves designing, developing, testing, and deploying web-based systems that allow users to interact with data and perform tasks online.
